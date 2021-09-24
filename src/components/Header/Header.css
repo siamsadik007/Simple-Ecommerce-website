@@ -1,0 +1,27 @@
+.header{
+text-align: center;
+}
+.logo{
+    width: 20%;
+   
+}
+.header nav{
+    background-color: black;
+    line-height: 40px;
+}
+.nav-bar a{
+    color: white;
+    text-decoration: none;
+    margin: 0 10px; 
+    font-size: 18px;  
+    padding: 5px;
+}
+.nav-bar a:hover{
+    background-color: rgb(190, 188, 188);
+}
+.search-button{
+    background-color: rgb(68, 65, 65);
+}
+.search-input{
+    margin: 20px;
+}
